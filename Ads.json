@@ -1,0 +1,32 @@
+{
+         "our_ads1_activation":"false",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+
+    "our_ads2_activation":"false",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+
+    "our_ads3_activation":"false",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/3.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
+
+    "our_ads_inter_activation":"false",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
+    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_rewarded_video": "",
+
+  "unity_app_id": "",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "unity_rewarded_video": "Rewarded_Android",
+
+  "appLovin_app_id": "",
+  "appLovin_banner": "00000000000",
+  "appLovin_interstitial": "00000000000",
+  "appLovin_rewarded_video": "00000000000"
+}
