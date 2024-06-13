@@ -1,32 +1,32 @@
 {
          "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads%20inter2.png",
-    "our_ads1_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads1_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads2_activation":"true",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20ads1.png",
-    "our_ads2_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads2_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads3_activation":"true",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads3.png",
-    "our_ads3_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads3_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads_inter_activation":"true",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/Grannypolice%20Ads%20inter1.png",
-    "our_ads_inter_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads_inter_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
   "admob_app_id": "",
   "admob_banner": "",
   "admob_interstitial": "",
   "admob_rewarded_video": "",
 
-  "unity_app_id": "5636966",
+  "unity_app_id": "",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofLKJC",
-  "appLovin_banner": "92301581b569a281",
-  "appLovin_interstitial": "dc8ab58539ea6c07",
-  "appLovin_rewarded_video": "e440dae498211fad"
+  "appLovin_app_id": "uPHhzx8GDsA3qh8pqhg2knMTuZUeo1Jk3mW53qGl9g46tqJ_AUTiaNG2vLKOsc5sNwsimnXo6CgKac5lofL",
+  "appLovin_banner": "0000000000000000",
+  "appLovin_interstitial": "0000000000000000",
+  "appLovin_rewarded_video": "0000000000000000"
 }
