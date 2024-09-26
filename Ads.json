@@ -1,19 +1,19 @@
 {
          "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads%20inter2.png",
-    "our_ads1_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads1_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads2_activation":"true",
     "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20ads1.png",
-    "our_ads2_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads2_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads3_activation":"true",
     "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/GrannyPolice%20Ads3.png",
-    "our_ads3_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads3_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
     "our_ads_inter_activation":"true",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/Grannypolice%20Ads%20inter1.png",
-    "our_ads_inter_link_url":"https://appgallery.huawei.com/app/C111003361",
+    "our_ads_inter_link_url":"appmarket://details?id=com.huaw.idjuo.granny.police",
 
   "admob_app_id": "",
   "admob_banner": "",
